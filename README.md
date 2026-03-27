@@ -1,4 +1,4 @@
-# 📊 Sales Dashboard - Power BI
+# 📊 climate change Dashboard - Power BI
 
 ## 📌 Overview
 This dashboard provides insights into climate changes in countries using interactive visualizations.
